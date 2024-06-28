@@ -9,6 +9,7 @@ public class Foreach {
 			  System.out.println(i);
 		  }
 		  
+			  System.out.println("Hiii");
 		 
 	}
 
