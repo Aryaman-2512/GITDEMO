@@ -10,7 +10,7 @@ public class Foreach {
 		  }
 		  
 			  System.out.println("Hiii");
-			  System.out.println("Event occure");
+			  System.out.println("waiting forEvent occure");
 		 
 	}
 
