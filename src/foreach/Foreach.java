@@ -10,8 +10,7 @@ public class Foreach {
 		  }
 		  
 			  System.out.println("Hiii");
-		System.out.println("Some other");
-
+			  System.out.println("By  me");
 		 
 	}
 
